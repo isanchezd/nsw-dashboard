@@ -1,0 +1,14 @@
+:root {
+    background-color: #404443;
+}
+
+
+@font-face {
+    font-family: 'Cleartone';
+    src: url('Cleartone.woff') format('woff2'),
+        url('Cleartone.woff2') format('woff'),
+        url('Cleartone.ttf')  format('truetype'); /* Safari, Android, iOS */
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
